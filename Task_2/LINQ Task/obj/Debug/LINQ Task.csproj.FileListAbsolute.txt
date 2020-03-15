@@ -1,0 +1,7 @@
+C:\Users\Vadim\Desktop\Git\Task_2\LINQ Task\bin\Debug\LINQ Task.exe.config
+C:\Users\Vadim\Desktop\Git\Task_2\LINQ Task\bin\Debug\LINQ Task.exe
+C:\Users\Vadim\Desktop\Git\Task_2\LINQ Task\bin\Debug\LINQ Task.pdb
+C:\Users\Vadim\Desktop\Git\Task_2\LINQ Task\obj\Debug\LINQ Task.csprojAssemblyReference.cache
+C:\Users\Vadim\Desktop\Git\Task_2\LINQ Task\obj\Debug\LINQ Task.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\Git\Task_2\LINQ Task\obj\Debug\LINQ Task.exe
+C:\Users\Vadim\Desktop\Git\Task_2\LINQ Task\obj\Debug\LINQ Task.pdb

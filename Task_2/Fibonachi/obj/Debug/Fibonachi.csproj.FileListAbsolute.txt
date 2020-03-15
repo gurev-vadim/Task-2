@@ -1,0 +1,6 @@
+C:\Users\Vadim\Desktop\Git\Task_2\Fibonachi\bin\Debug\Fibonachi.exe.config
+C:\Users\Vadim\Desktop\Git\Task_2\Fibonachi\bin\Debug\Fibonachi.exe
+C:\Users\Vadim\Desktop\Git\Task_2\Fibonachi\bin\Debug\Fibonachi.pdb
+C:\Users\Vadim\Desktop\Git\Task_2\Fibonachi\obj\Debug\Fibonachi.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\Git\Task_2\Fibonachi\obj\Debug\Fibonachi.exe
+C:\Users\Vadim\Desktop\Git\Task_2\Fibonachi\obj\Debug\Fibonachi.pdb

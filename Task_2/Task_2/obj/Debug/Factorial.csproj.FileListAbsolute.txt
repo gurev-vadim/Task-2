@@ -1,0 +1,7 @@
+C:\Users\Vadim\Desktop\Git\Task_2\Task_2\bin\Debug\Task_2.exe.config
+C:\Users\Vadim\Desktop\Git\Task_2\Task_2\bin\Debug\Task_2.exe
+C:\Users\Vadim\Desktop\Git\Task_2\Task_2\bin\Debug\Task_2.pdb
+C:\Users\Vadim\Desktop\Git\Task_2\Task_2\obj\Debug\Factorial.csprojAssemblyReference.cache
+C:\Users\Vadim\Desktop\Git\Task_2\Task_2\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\Git\Task_2\Task_2\obj\Debug\Task_2.exe
+C:\Users\Vadim\Desktop\Git\Task_2\Task_2\obj\Debug\Task_2.pdb
